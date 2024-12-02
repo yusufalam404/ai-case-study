@@ -2,19 +2,19 @@
 
 ## Overview and Origin
 
-* Name of company - AlphaSense
+* Name of company - **AlphaSense**
 
-* When was the company incorporated?
+* When was the company incorporated - **2011**
 
-* Who are the founders of the company?
+* Who are the founders of the company - **Jakko Kokko and Raj Neervannan**
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about **Jaako Kokko and Raj Nervannan met at the Wharton School of Business and both indidividuals had seen many challenges as financial analysts. They realized the difficulties analysts faced when trying to extract insights from from unstructured data. They decided to solve this issue by leveraging machine learning and natural language processsing to accelerate the process of finding critical information.**
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received - **The company has raised approximately $1.39 billion in funding over several rounds. They have recieved contributions from leading investors such as BOND, Viking Global Investors, CapitalG, and Goldman Sachs. The most recent funding they received was $150 million Series E funding at a $2.5 billion valuation from BOND.**
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* What specific problem is the company or project trying to solve - 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
